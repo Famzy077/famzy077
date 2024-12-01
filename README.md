@@ -15,9 +15,9 @@
 
 - Open to work **Frontend & Backend (Full Stack)**
 
-- 👨‍💻 All of my projects are available at [https://www.akinolafemi.com.ng](https://www.akinolafemi.com.ng)
+- 👨‍💻 All of my projects are available at <a href="https://www.akinolafemi.com.ng">Portfolio</a>
 
-- 📝 You can follow me on Linkedin [https://www.linkedin.com/in/akinola-femi-0a8666309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/akinola-femi-0a8666309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📝 You can follow me on Linkedin <a href='(https://www.linkedin.com/in/akinola-femi-0a8666309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'>LinkedIn Profile</a>
 
 - 💬 Ask me about **Tailwind, React.Js, Node.Js**
 
