@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/famzy_tech" target="blank"><img src="https://img.shields.io/twitter/follow/famzy_tech?logo=twitter&style=for-the-badge" alt="famzy_tech" /></a> </p>
 
-- 🔭 I’m currently working on <a href='https://healthcareservice-client.vercel.app/'>HealthCare Website</a>
+- 🔭 I’m currently working on <a href='https://gym-phi-ivory.vercel.app/'>GYM Website</a>
 
-- 🌱 I’m currently learning <b>Python</b>
+- 🌱 I’m currently learning <b>Next.js </b>
 
 - 👯 I’m looking to collaborate on **exciting and open source project**
 
-- Open to work **Frontend or Backend (Full Stack)**
+- Open to work **Frontend and Backend (Full Stack)**
 
 - 👨‍💻 All of my projects are available at <a href="https://www.akinolafemi.com.ng">Portfolio</a>
 
@@ -23,9 +23,9 @@
 
 - 📫 How to reach me **akinolafemi573@gmail.com**
 
-- 📄 Know about my experiences <a href='https://docs.google.com/document/d/1-CAB8L5pKODGT8rdEiaj5byLFVTOzSbt/edit?usp=sharing&ouid=102713475216595228801&rtpof=true&sd=true'>Resume</a>
+- 📄 Know about my experiences <a href='https://docs.google.com/document/d/16Y18WIM1lIMWcJqDB-rfylWsfgKSzY-pcB_aW857574/edit?tab=t.0'>Resume</a>
 
-- ⚡ Fun fact <b>Being around friends and having fun</b>
+- ⚡ Fun fact <b>I love coding and also go for Vacation</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
