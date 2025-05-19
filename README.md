@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/famzy_tech" target="blank"><img src="https://img.shields.io/twitter/follow/famzy_tech?logo=twitter&style=for-the-badge" alt="famzy_tech" /></a> </p>
 
-- 🔭 I’m currently working on <a href='https://gym-phi-ivory.vercel.app/'>GYM Website</a>
+- 🔭 I’m currently working on <a href='https://favourite-plug.vercel.app/'>Favorite Plug E-commerce Website</a>
 
 - 🌱 I’m currently learning <b>Next.js </b>
 
@@ -15,11 +15,11 @@
 
 - Open to work **Frontend and Backend (Full Stack)**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.akinolafemi.com.ng">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://akinolafemi.vercel.app">My Portfolio</a>
 
 - 📝 You can follow me on Linkedin <a href='https://www.linkedin.com/in/akinola-femi-0a8666309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'>LinkedIn Profile</a>
 
-- 💬 Ask me about **Tailwind, React.Js, Node.Js**
+- 💬 Ask me about **Tailwind, React.Js, Next.js, Node.Js**
 
 - 📫 How to reach me **akinolafemi573@gmail.com**
 
