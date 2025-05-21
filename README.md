@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on <a href='https://favourite-plug.vercel.app/'>Favorite Plug E-commerce Website</a>
 
-- 🌱 I’m currently learning <b>Next.js </b>
+- 🌱 I’m currently enjoying <b>Next.js tools </b>
 
 - 👯 I’m looking to collaborate on **exciting and open source project**
 
