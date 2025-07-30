@@ -1,5 +1,5 @@
 <h1 align="center"> <span style='color:gold;'>Hi</span> 👋, I'm Akinola Femi</h1>
-<h3 align="center">Software Engineer with years of experience in full-stack development. Skilled in Tailwind, React, Node.js, Express and databases. Passionate about scalable web</h3>
+<h3 align="center">React.js & Node.js Developer. Crafting seamless user experiences from front to back. Open to collaboration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=famzy077&label=Profile%20views&color=0e75b6&style=flat" alt="famzy077" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/famzy_tech" target="blank"><img src="https://img.shields.io/twitter/follow/famzy_tech?logo=twitter&style=for-the-badge" alt="famzy_tech" /></a> </p>
 
-- 🔭 I’m currently working on <a href='https://favourite-plug.vercel.app/'>Favorite Plug E-commerce Website</a>
+- 🔭 I’m currently working on <a href='https://crypto-conic.vercel.app'>Cryto Cronic App</a>
 
 - 🌱 I’m currently enjoying <b>Next.js tools </b>
 
 - 👯 I’m looking to collaborate on **exciting and open source project**
 
-- Open to work **Frontend and Backend (Full Stack)**
+- Open to work **Frontend or Backend (Full Stack)**
 
 - 👨‍💻 All of my projects are available at <a href="https://akinolafemi.vercel.app">My Portfolio</a>
 
@@ -32,7 +32,7 @@
 <a href="https://twitter.com/famzy_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="famzy_tech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akinola-femi-0a8666309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akinola-femi-0a8666309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/akinola.femi.3158/profilecard/?igsh=mtuxczkwnnviohdoyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akinola.femi.3158/profilecard/?igsh=mtuxczkwnnviohdoyw==" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/famzy077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="famzy077" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/famzy077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="famzy077" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,7 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=famzy077&show_icons=true&locale=en" alt="famzy077" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=famzy077&" alt="famzy077" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=famzy077&" alt="famzy077" />
 
 
 <!--
